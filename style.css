@@ -104,5 +104,27 @@ position: relative;
 }
 
 .main-right {
-  width: 50%;
+position: relative;
+width: 50%;
+background: rgb(194,245,120);
+background: radial-gradient(circle, rgba(194,245,120,0.9921218487394958) 0%, rgba(9,9,121,0) 66%, rgba(0,212,255,0) 100%);}
+
+.img-bgc{
+    position: absolute;
+ 
+}
+
+.main-svg-1{
+    position: absolute;
+    top: 11rem;
+    left: 0px;
+
+
+}
+.main-svg-2{
+    position: absolute;
+    right: 11rem;
+    top: 8rem;
+
+
 }
