@@ -28,7 +28,7 @@ header {
 }
 .header-left {
   display: flex;
-  align-items: center;
+  align-items:center;
   gap: 5vh;
 }
 
