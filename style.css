@@ -223,7 +223,7 @@ main {
 
 .sec-4 {
   height: 70vh;
-  padding: var(--comman-padding);
+  padding: 0px 40px 0px 150px ;
   width: 100%;
   margin: 0px 50px;
 }
